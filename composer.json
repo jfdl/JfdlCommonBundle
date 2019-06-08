@@ -1,0 +1,23 @@
+{
+  "name": "jfdl/framework-bundle",
+  "type": "symfony-bundle",
+  "description": "Jfdl :: Common Bundle",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Jean-François de Locht",
+      "email": "jf.delocht@gmail.com"
+    }
+  ],
+  "require": {
+    "php": ">=7.0",
+    "symfony/framework-bundle": "~3.0|~4.0",
+  },
+  "require-dev": {
+    "symfony/yaml": "~2.2",
+  },
+  "autoload": {
+    "psr-4": { "Jfdl\\CommonBundle\\": "" }
+  },
+  "minimum-stability": "dev"
+}

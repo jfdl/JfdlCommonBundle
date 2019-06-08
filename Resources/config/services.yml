@@ -1,0 +1,5 @@
+services:
+    jfdl_common.twig_extension:
+        class: 'Jfdl\CommonBundle\Twig\Extension\AppExtension'
+        tags:
+            - { name: twig.extension }
