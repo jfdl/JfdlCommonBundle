@@ -1,5 +1,5 @@
 {
-  "name": "jfdl/framework-bundle",
+  "name": "jfdl/common-bundle",
   "type": "symfony-bundle",
   "description": "Jfdl :: Common Bundle",
   "license": "MIT",
